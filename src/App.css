@@ -1,4 +1,58 @@
-.App {
-  text-align: center;
-  background-color: rgb(88, 61, 110);
+
+.landingline{
+  position:fixed;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+.landingpfp{
+  position:fixed;
+  top: 25%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  
+}
+
+.landingquotedown{
+  position:fixed;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+.landingquoteup{
+  position:fixed;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+ /* directory */
+
+.directory{
+  position:fixed;
+  top: 60%;
+  left: 37%;
+}
+.elements{
+  display: inline-block;
+  padding: 1rem 1rem;
+}
+.pelements{
+  display: inline-block;
+  top: 59%;
+  padding: 1rem 1rem;
+}
+ /* icons */
+.icon{
+  position:fixed;
+  top: 70%;
+  left: 45%;
+  
+}
+.iconp{
+  display: inline-block;
+  padding: 1rem 1rem;
+  
 }

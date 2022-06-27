@@ -1,11 +1,26 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1> JASON CHEN </h1>
-      <h2> WELCOME </h2>
+      
+      <div class="landingpfp"><img src={require('./images/landing/landingpfp.svg').default}/></div>
+      <div class="landingquoteup"><img src={require('./images/landing/landingquoteup.svg').default}/></div>
+      <div class="landingquotedown"><img src={require('./images/landing/landingquotedown.svg').default}/></div>
+      <div class="landingline"><img src={require('./images/landing/landingline.svg').default}/></div>
+      
+      <div class='directory'>
+        <div class="elements"><img src={require('./images/landing/landingabout.svg').default}/></div>
+        <div class="elements"><img src={require('./images/landing/landingresume.svg').default}/></div>
+        <div class="elements"><img src={require('./images/landing/landingcontact.svg').default}/></div>
+        <div class="pelements"><img src={require('./images/landing/landingprojects.svg').default}/></div>
+      </div>
+      <div class='icon'>
+      <div class="iconp"><img src={require('./images/landing/landinggithub.svg').default}/></div>
+      <div class="iconp"><img src={require('./images/landing/landinginstagram.svg').default}/></div>
+      <div class="iconp"><img src={require('./images/landing/landinglinkedin.svg').default}/></div>
+      </div>
     </div>
   );
 }
