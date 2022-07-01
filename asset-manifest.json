@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pwebsite/static/css/main.67a63543.css",
+    "main.css": "/pwebsite/static/css/main.c86531b9.css",
     "main.js": "/pwebsite/static/js/main.490d6800.js",
     "static/js/787.f712ca47.chunk.js": "/pwebsite/static/js/787.f712ca47.chunk.js",
     "static/media/landinginstagram.svg": "/pwebsite/static/media/landinginstagram.0862a5dc595ca72b3b27b501e97522dd.svg",
@@ -15,12 +15,12 @@
     "index.html": "/pwebsite/index.html",
     "static/media/landingline.svg": "/pwebsite/static/media/landingline.c24ecc3eacc2fa1052e54b72ce91d773.svg",
     "static/media/landingpfp.svg": "/pwebsite/static/media/landingpfp.6030eda63fe7d946df5b2447c2e65305.svg",
-    "main.67a63543.css.map": "/pwebsite/static/css/main.67a63543.css.map",
+    "main.c86531b9.css.map": "/pwebsite/static/css/main.c86531b9.css.map",
     "main.490d6800.js.map": "/pwebsite/static/js/main.490d6800.js.map",
     "787.f712ca47.chunk.js.map": "/pwebsite/static/js/787.f712ca47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67a63543.css",
+    "static/css/main.c86531b9.css",
     "static/js/main.490d6800.js"
   ]
 }
