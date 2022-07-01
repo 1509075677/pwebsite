@@ -35,7 +35,7 @@
 }
 .pelements{
   display: inline-block;
-  top: 59%;
+  vertical-align: -2.5px;
   padding: 1rem 1rem;
 }
  /* icons */
