@@ -1,39 +1,33 @@
-
+.App{
+  width:100%;
+}
 .landingline{
-  position:fixed;
-  top: 55%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  text-align: center;
+  margin-top: 40px;
   
 }
 .landingpfp{
-  position:fixed;
-  top: 25%;
-  left: 60%;
-  transform: translate(-50%, -50%);
+  text-align: center;
+  margin-top: 120px;
+  margin-left: 300px
   
 }
 
 .landingquotedown{
-  position:fixed;
-  top: 47%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  text-align: center;
+  margin-top: 38px;
   
 }
 .landingquoteup{
-  position:fixed;
-  top: 35%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  
+  text-align: center;
+  margin-top: -25px;
 }
  /* directory */
 
 .directory{
-  position:fixed;
-  top: 60%;
-  left: 37%;
+  text-align: center;
+
+  /*margin-left: 100px; */
 }
 .elements{
   display: inline-block;
@@ -46,9 +40,8 @@
 }
  /* icons */
 .icon{
-  position:fixed;
-  top: 70%;
-  left: 45%;
+  text-align: center;
+  margin-top: 4px;
   
 }
 .iconp{
