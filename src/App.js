@@ -11,6 +11,9 @@ function App() {
   function togithub(){
     window.location="https://github.com/1509075677";
   }
+  function toresume(){
+    window.location="https://drive.google.com/file/d/1uk7q6qIARsacXUagzf7K8fTx7tMaO2l2/view";
+  }
   return (
     <div class="App">
       
@@ -21,7 +24,7 @@ function App() {
       
       <div class='directory'>
         <div class="elements"><img src={require('./images/landing/landingabout.svg').default}/></div>
-        <div class="elements"><img src={require('./images/landing/landingresume.svg').default}/></div>
+        <div class="elements" onClick={toresume}><img src={require('./images/landing/landingresume.svg').default}/></div>
         <div class="elements"><img src={require('./images/landing/landingcontact.svg').default}/></div>
         <div class="pelements"><img src={require('./images/landing/landingprojects.svg').default}/></div>
       </div>
