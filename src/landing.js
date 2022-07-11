@@ -29,14 +29,14 @@ function Landing() {
             <img src={require('./images/landing/landingline.svg').default}/></div>
         
         <div class='directory'>
-            <div class="elements">
-                <img src={require('./images/landing/landingabout.svg').default}/></div>
-            <div class="elements" onClick={toresume}>
-                <img src={require('./images/landing/landingresume.svg').default}/></div>
-            <div class="elements" onClick={()=>{navigate("/contacts");}}>
-                <img src={require('./images/landing/landingcontact.svg').default}/></div>
-            <div class="pelements">
-                <img src={require('./images/landing/landingprojects.svg').default}/></div>
+            <button class="elements">
+                <img src={require('./images/landing/landingabout.svg').default}/></button>
+            <button class="elements" onClick={toresume}>
+                <img src={require('./images/landing/landingresume.svg').default}/></button>
+            <button class="elements" onClick={()=>{navigate("/contacts");}}>
+                <img src={require('./images/landing/landingcontact.svg').default}/></button>
+            <button class="pelements">
+                <img src={require('./images/landing/landingprojects.svg').default}/></button>
         </div>
         <div class='icon'>
             <div class="iconp" onClick={togithub}>
