@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+    margin-top: 70px;
+}
+.name{
+    text-align: center;
+    margin-top: 40px;
+}
+.icon{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+.iconp{
+    display: inline-block;
+    padding: 1rem 10rem;
+
+}
