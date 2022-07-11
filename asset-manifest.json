@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/pwebsite/static/css/main.c86531b9.css",
-    "main.js": "/pwebsite/static/js/main.490d6800.js",
+    "main.css": "/pwebsite/static/css/main.b0651581.css",
+    "main.js": "/pwebsite/static/js/main.27d66e72.js",
     "static/js/787.f712ca47.chunk.js": "/pwebsite/static/js/787.f712ca47.chunk.js",
+    "static/media/contactsinstagram.svg": "/pwebsite/static/media/contactsinstagram.0862a5dc595ca72b3b27b501e97522dd.svg",
     "static/media/landinginstagram.svg": "/pwebsite/static/media/landinginstagram.0862a5dc595ca72b3b27b501e97522dd.svg",
+    "static/media/contactsgithub.svg": "/pwebsite/static/media/contactsgithub.67d56f7684f6a8e02079ff4e3b0d1a4a.svg",
     "static/media/landinggithub.svg": "/pwebsite/static/media/landinggithub.67d56f7684f6a8e02079ff4e3b0d1a4a.svg",
+    "static/media/contactsname.svg": "/pwebsite/static/media/contactsname.ad4a43d0a4d683ccff9103e0d6416f74.svg",
     "static/media/landingquoteup.svg": "/pwebsite/static/media/landingquoteup.3a1eb20a685ce2a9aa65545cfd646a86.svg",
     "static/media/landingquotedown.svg": "/pwebsite/static/media/landingquotedown.2794d61779f9c2c9c16c2f5bfc8fdfd6.svg",
+    "static/media/contactslinkedin.svg": "/pwebsite/static/media/contactslinkedin.f2445fa73d343e41b9f9f78cc5b64e64.svg",
     "static/media/landinglinkedin.svg": "/pwebsite/static/media/landinglinkedin.f2445fa73d343e41b9f9f78cc5b64e64.svg",
+    "static/media/contactstitle.svg": "/pwebsite/static/media/contactstitle.5586338d2d9eff7e0881c3f04564fb86.svg",
     "static/media/landingprojects.svg": "/pwebsite/static/media/landingprojects.72260e70d100f3df67f1df187479d0a9.svg",
     "static/media/landingresume.svg": "/pwebsite/static/media/landingresume.6760ef562a3cd7885097290e82b61498.svg",
     "static/media/landingcontact.svg": "/pwebsite/static/media/landingcontact.cbe826279896f2ad3e8dbf509236ab98.svg",
@@ -15,12 +20,12 @@
     "index.html": "/pwebsite/index.html",
     "static/media/landingline.svg": "/pwebsite/static/media/landingline.c24ecc3eacc2fa1052e54b72ce91d773.svg",
     "static/media/landingpfp.svg": "/pwebsite/static/media/landingpfp.6030eda63fe7d946df5b2447c2e65305.svg",
-    "main.c86531b9.css.map": "/pwebsite/static/css/main.c86531b9.css.map",
-    "main.490d6800.js.map": "/pwebsite/static/js/main.490d6800.js.map",
+    "main.b0651581.css.map": "/pwebsite/static/css/main.b0651581.css.map",
+    "main.27d66e72.js.map": "/pwebsite/static/js/main.27d66e72.js.map",
     "787.f712ca47.chunk.js.map": "/pwebsite/static/js/787.f712ca47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c86531b9.css",
-    "static/js/main.490d6800.js"
+    "static/css/main.b0651581.css",
+    "static/js/main.27d66e72.js"
   ]
 }
