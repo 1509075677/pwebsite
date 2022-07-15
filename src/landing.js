@@ -27,7 +27,9 @@ function Landing() {
             <img src={require('./images/landing/landingquotedown.svg').default}/></div>
         <div class="landingline">
             <img src={require('./images/landing/landingline.svg').default}/></div>
-        
+        <div class="profilepic">
+            <img src={require('./images/landing/profilepic.svg').default} width="112" height="120"/></div>
+
         <div class='directory'>
             <button class="elements">
                 <img src={require('./images/landing/landingabout.svg').default}/></button>

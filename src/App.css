@@ -1,15 +1,19 @@
 .App{
   width:100%;
 }
+.profilepic{
+  text-align: center;
+  margin-left: 300px;
+  margin-top: -325px;
+}
 .landingline{
   text-align: center;
   margin-top: 40px;
-  
 }
 .landingpfp{
   text-align: center;
   margin-top: 120px;
-  margin-left: 300px
+  margin-left: 300px;
   
 }
 
@@ -30,7 +34,7 @@
   /*margin-left: 100px; */
 }
 .elements{
-  margin-top: 25px;
+  margin-top: 225px;
   display: inline-block;
   background:none;
   border:none;
