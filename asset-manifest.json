@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/pwebsite/static/css/main.3e0f20b9.css",
-    "main.js": "/pwebsite/static/js/main.6ef92a6c.js",
+    "main.css": "/pwebsite/static/css/main.670c2629.css",
+    "main.js": "/pwebsite/static/js/main.4a061774.js",
     "static/js/787.f712ca47.chunk.js": "/pwebsite/static/js/787.f712ca47.chunk.js",
     "static/media/contactsinstagram.svg": "/pwebsite/static/media/contactsinstagram.0862a5dc595ca72b3b27b501e97522dd.svg",
     "static/media/landinginstagram.svg": "/pwebsite/static/media/landinginstagram.0862a5dc595ca72b3b27b501e97522dd.svg",
+    "static/media/profilepic.svg": "/pwebsite/static/media/profilepic.8ad63f02d1aa622bf50763da4ccb05c9.svg",
     "static/media/contactsgithub.svg": "/pwebsite/static/media/contactsgithub.67d56f7684f6a8e02079ff4e3b0d1a4a.svg",
     "static/media/landinggithub.svg": "/pwebsite/static/media/landinggithub.67d56f7684f6a8e02079ff4e3b0d1a4a.svg",
     "static/media/contactsname.svg": "/pwebsite/static/media/contactsname.ad4a43d0a4d683ccff9103e0d6416f74.svg",
@@ -20,12 +21,12 @@
     "index.html": "/pwebsite/index.html",
     "static/media/landingline.svg": "/pwebsite/static/media/landingline.c24ecc3eacc2fa1052e54b72ce91d773.svg",
     "static/media/landingpfp.svg": "/pwebsite/static/media/landingpfp.6030eda63fe7d946df5b2447c2e65305.svg",
-    "main.3e0f20b9.css.map": "/pwebsite/static/css/main.3e0f20b9.css.map",
-    "main.6ef92a6c.js.map": "/pwebsite/static/js/main.6ef92a6c.js.map",
+    "main.670c2629.css.map": "/pwebsite/static/css/main.670c2629.css.map",
+    "main.4a061774.js.map": "/pwebsite/static/js/main.4a061774.js.map",
     "787.f712ca47.chunk.js.map": "/pwebsite/static/js/787.f712ca47.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e0f20b9.css",
-    "static/js/main.6ef92a6c.js"
+    "static/css/main.670c2629.css",
+    "static/js/main.4a061774.js"
   ]
 }
