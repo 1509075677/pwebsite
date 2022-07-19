@@ -1,0 +1,119 @@
+.main{
+    height:4300px;
+
+}
+/* navigation*/
+.bar{
+    margin-top: 7%;
+    margin-right: 60%;
+    height: 8%;
+    text-align: center;
+}
+.e1{
+    display: inline-block;
+    padding: 1rem 1rem;
+}
+.e2{
+    display: inline-block;
+    padding: 1rem 0.8rem;
+}
+.e3{
+    display: inline-block;
+    padding: 1rem 0.8rem;
+}
+/*______________*/
+.name{
+    margin-top: 7%;
+    margin-right: 2%;
+    text-align: center;
+}
+.line{
+    display: block;
+    border-color: #9FBFB5;
+    margin-top: 27%;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.mainpageabout{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+.mainpageabout2{
+    margin-top: -2.5%;
+    text-align: center;
+}
+.aboutquote{
+    text-align: center;
+    margin-top: 5%;
+}
+.line2{
+    display: block;
+    border-color: #9FBFB5;
+    margin-top: 14%;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.mainexp{
+    margin-top: 5%;
+    text-align: center;
+    
+}
+.mainexp2{
+    margin-top: -4.5%;
+    text-align: center;
+}
+.line3{
+    display: block;
+    border-color: #9FBFB5;
+    margin-top: 55%;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.mainpagecontact{
+    text-align: center;
+    margin-top: 7%;
+}
+.mainpagecontact2{
+    text-align: center;
+    margin-top: -4.5%;
+    
+}
+.mainpagecontactquote{
+    text-align: center;
+    margin-top: 7%;
+}
+
+.icon{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.iconp{
+    display: inline-block;
+    padding: 1rem 1rem;
+
+}
+
+.line4{
+    display: block;
+    border-color: #9FBFB5;
+    margin-top: 10%;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}

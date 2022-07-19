@@ -1,9 +1,6 @@
-import React from 'react';
-import {useNavigate} from "react-router-dom";
-import './App.css';
+import './main.css';
 
 function Landing() {
-    let navigate = useNavigate();
     function toinstagram(){
         window.location="https://www.instagram.com/jasxv9/";
     }
@@ -16,41 +13,63 @@ function Landing() {
     function toresume(){
         window.location="https://drive.google.com/file/d/1uk7q6qIARsacXUagzf7K8fTx7tMaO2l2/view";
     }
-    return (
-        <div class="App">
-        
-        <div class="landingpfp">
-            <img src={require('./images/landing/landingpfp.svg').default}/></div>
-        <div class="landingquoteup">
-            <img src={require('./images/landing/landingquoteup.svg').default}/></div>
-        <div class="landingquotedown">
-            <img src={require('./images/landing/landingquotedown.svg').default}/></div>
-        <div class="landingline">
-            <img src={require('./images/landing/landingline.svg').default}/></div>
-        <div class="profilepic">
-            <img src={require('./images/landing/profilepic.svg').default} width="112" height="120"/></div>
-
-        <div class='directory'>
-            <button class="elements">
-                <img src={require('./images/landing/landingabout.svg').default}/></button>
-            <button class="elements" onClick={toresume}>
-                <img src={require('./images/landing/landingresume.svg').default}/></button>
-            <button class="elements" onClick={()=>{navigate("/contacts");}}>
-                <img src={require('./images/landing/landingcontact.svg').default}/></button>
-            <button class="pelements">
-                <img src={require('./images/landing/landingprojects.svg').default}/></button>
-        </div>
-        <div class='icon'>
-            <div class="iconp" onClick={togithub}>
-                <img src={require('./images/landing/landinggithub.svg').default}/></div>
-            <div class="iconp" onClick={toinstagram}>
-                <img src={require('./images/landing/landinginstagram.svg').default}/></div>
-            <div class="iconp" onClick={tolinkedin}>
-                <img src={require('./images/landing/landinglinkedin.svg').default}/></div>
+    return(
+        <div class="main">
+            <style>{'body{background-color:#303231}'}</style>
+            <div class='bar'>
+                <div class="e1">
+                    <img src={require('./images/main/mainabout.svg').default} width="100" height="20"/></div>
+                <div class="e2">
+                    <img src={require('./images/main/maincontact.svg').default}width="100" height="20"/></div>
+                <div class="e3">
+                    <img src={require('./images/main/mainwork.svg').default} width="100" height="20"/></div>
             </div>
+            <div class='rec'></div>
+            <div class='name'>
+                <img src={require('./images/main/mainname.svg').default}width="500" height="200"/></div>
+            <div class='line'></div> 
+
+
+            <div class='mainpageabout'>
+                <img src={require('./images/main/mainpageabout.svg').default}width="400" height="100"/></div>
+            <div class='mainpageabout2'>
+                <img src={require('./images/main/mainpageabout2.svg').default}width="400" height="100"/></div>
+            <div class='aboutquote'>
+                <img src={require('./images/main/mainaboutquote.svg').default}width="900" height="600"/></div>
+            <div class='line2'></div>
+
+
+            <div class='mainexp'>
+                <img src={require('./images/main/mainexp.svg').default}width="500" height="120"/></div>
+            <div class='mainexp2'>
+                <img src={require('./images/main/mainexp2.svg').default}width="500" height="120"/></div>
+            <div class='line3'></div> 
+
+
+            <div class='mainpagecontact'>
+                <img src={require('./images/main/mainpagecontacts.svg').default} width="500" height="120"/></div>
+            <div class='mainpagecontact2'>
+                <img src={require('./images/main/mainpagecontacts2.svg').default} width="500" height="120"/></div>
+            <div class='mainpagecontactquote'>
+                <img src={require('./images/main/maincontactquote.svg').default} width="900" height="520"/></div>
+            
+            <div class='icon'>
+                <div class="iconp" onClick={togithub}>
+                    <img src={require('./images/contacts/contactsgithub.svg').default} width="90" height="52"/></div>
+                <div class="iconp" onClick={toinstagram}>
+                    <img src={require('./images/contacts/contactsinstagram.svg').default} width="90" height="52"/></div>
+                <div class="iconp" onClick={tolinkedin}>
+                    <img src={require('./images/contacts/contactslinkedin.svg').default} width="90" height="52"/></div>
+            </div>
+
+
+            
+            
+            <div class='line4'></div>
+            
+
+            
         </div>
-        
     );
 }
-
 export default Landing;
