@@ -1,32 +1,28 @@
 {
   "files": {
-    "main.css": "/pwebsite/static/css/main.670c2629.css",
-    "main.js": "/pwebsite/static/js/main.4a061774.js",
-    "static/js/787.f712ca47.chunk.js": "/pwebsite/static/js/787.f712ca47.chunk.js",
+    "main.css": "/pwebsite/static/css/main.a1a40fa9.css",
+    "main.js": "/pwebsite/static/js/main.ed4ef971.js",
+    "static/media/mainaboutquote.svg": "/pwebsite/static/media/mainaboutquote.d9930b6c1bd42478da722da73f27526f.svg",
     "static/media/contactsinstagram.svg": "/pwebsite/static/media/contactsinstagram.0862a5dc595ca72b3b27b501e97522dd.svg",
-    "static/media/landinginstagram.svg": "/pwebsite/static/media/landinginstagram.0862a5dc595ca72b3b27b501e97522dd.svg",
-    "static/media/profilepic.svg": "/pwebsite/static/media/profilepic.8ad63f02d1aa622bf50763da4ccb05c9.svg",
+    "static/media/maincontactquote.svg": "/pwebsite/static/media/maincontactquote.a5e7a094299814f95c14badcf64b6b1e.svg",
     "static/media/contactsgithub.svg": "/pwebsite/static/media/contactsgithub.67d56f7684f6a8e02079ff4e3b0d1a4a.svg",
-    "static/media/landinggithub.svg": "/pwebsite/static/media/landinggithub.67d56f7684f6a8e02079ff4e3b0d1a4a.svg",
-    "static/media/contactsname.svg": "/pwebsite/static/media/contactsname.ad4a43d0a4d683ccff9103e0d6416f74.svg",
-    "static/media/landingquoteup.svg": "/pwebsite/static/media/landingquoteup.3a1eb20a685ce2a9aa65545cfd646a86.svg",
-    "static/media/landingquotedown.svg": "/pwebsite/static/media/landingquotedown.2794d61779f9c2c9c16c2f5bfc8fdfd6.svg",
     "static/media/contactslinkedin.svg": "/pwebsite/static/media/contactslinkedin.f2445fa73d343e41b9f9f78cc5b64e64.svg",
-    "static/media/landinglinkedin.svg": "/pwebsite/static/media/landinglinkedin.f2445fa73d343e41b9f9f78cc5b64e64.svg",
-    "static/media/contactstitle.svg": "/pwebsite/static/media/contactstitle.5586338d2d9eff7e0881c3f04564fb86.svg",
-    "static/media/landingprojects.svg": "/pwebsite/static/media/landingprojects.72260e70d100f3df67f1df187479d0a9.svg",
-    "static/media/landingresume.svg": "/pwebsite/static/media/landingresume.6760ef562a3cd7885097290e82b61498.svg",
-    "static/media/landingcontact.svg": "/pwebsite/static/media/landingcontact.cbe826279896f2ad3e8dbf509236ab98.svg",
-    "static/media/landingabout.svg": "/pwebsite/static/media/landingabout.c2eb859da89491a853d7f702526662b9.svg",
+    "static/media/mainexp.svg": "/pwebsite/static/media/mainexp.a8b2837b44440af223016ec277d9c9a1.svg",
+    "static/media/mainexp2.svg": "/pwebsite/static/media/mainexp2.d76fec2ac54d433d095a58708c885023.svg",
+    "static/media/mainname.svg": "/pwebsite/static/media/mainname.ff87110de7471831184afd4cc7869238.svg",
+    "static/media/mainpagecontacts.svg": "/pwebsite/static/media/mainpagecontacts.83f959855b02ad2be27bc2790aa97a5d.svg",
+    "static/media/mainpagecontacts2.svg": "/pwebsite/static/media/mainpagecontacts2.b843ba41ffb334bb7943f69ec45548dd.svg",
+    "static/media/maincontact.svg": "/pwebsite/static/media/maincontact.b5024da36487363377046f5aee95c95f.svg",
+    "static/media/mainabout.svg": "/pwebsite/static/media/mainabout.48f533063dd030d2f7947dfea493c00c.svg",
+    "static/media/mainpageabout.svg": "/pwebsite/static/media/mainpageabout.504b4da6f332ea8cf4ab7e0a78dcd14d.svg",
+    "static/media/mainpageabout2.svg": "/pwebsite/static/media/mainpageabout2.8b39b1808c931a99b55d4b1674ba37bc.svg",
+    "static/media/mainwork.svg": "/pwebsite/static/media/mainwork.b44140fd3c452808e157aa3162cf2513.svg",
     "index.html": "/pwebsite/index.html",
-    "static/media/landingline.svg": "/pwebsite/static/media/landingline.c24ecc3eacc2fa1052e54b72ce91d773.svg",
-    "static/media/landingpfp.svg": "/pwebsite/static/media/landingpfp.6030eda63fe7d946df5b2447c2e65305.svg",
-    "main.670c2629.css.map": "/pwebsite/static/css/main.670c2629.css.map",
-    "main.4a061774.js.map": "/pwebsite/static/js/main.4a061774.js.map",
-    "787.f712ca47.chunk.js.map": "/pwebsite/static/js/787.f712ca47.chunk.js.map"
+    "main.a1a40fa9.css.map": "/pwebsite/static/css/main.a1a40fa9.css.map",
+    "main.ed4ef971.js.map": "/pwebsite/static/js/main.ed4ef971.js.map"
   },
   "entrypoints": [
-    "static/css/main.670c2629.css",
-    "static/js/main.4a061774.js"
+    "static/css/main.a1a40fa9.css",
+    "static/js/main.ed4ef971.js"
   ]
 }
