@@ -13,15 +13,24 @@ function Landing() {
     function toresume(){
         window.location="https://drive.google.com/file/d/1uk7q6qIARsacXUagzf7K8fTx7tMaO2l2/view";
     }
+    function a(){
+        window.scrollTo(0,1200);
+    }
+    function c(){
+        window.scrollTo(0,3500);
+    }
+    function w(){
+        window.scrollTo(0,2000);
+    }
     return(
         <div class="main">
             <style>{'body{background-color:#303231}'}</style>
             <div class='bar'>
-                <div class="e1">
+                <div class="e1" onClick={a}>
                     <img src={require('./images/main/mainabout.svg').default} width="100" height="20"/></div>
-                <div class="e2">
+                <div class="e2" onClick={c}>
                     <img src={require('./images/main/maincontact.svg').default}width="100" height="20"/></div>
-                <div class="e3">
+                <div class="e3" onClick={w}>
                     <img src={require('./images/main/mainwork.svg').default} width="100" height="20"/></div>
             </div>
             <div class='rec'></div>
