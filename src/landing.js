@@ -30,13 +30,6 @@ function Landing() {
             top: window.outerWidth*window.outerHeight/780,
             behavior: 'smooth'
           });
-        window.scrollTo(0,1200);
-    }
-    function c(){
-        window.scrollTo(0,3500);
-    }
-    function w(){
-        window.scrollTo(0,2000);
     }
     return(
         <div class="main">
