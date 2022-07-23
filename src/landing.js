@@ -33,7 +33,6 @@ function Landing() {
                 <div class="e3" onClick={w}>
                     <img src={require('./images/main/mainwork.svg').default} width="100" height="20"/></div>
             </div>
-            <div class='rec'></div>
             <div class='name'>
                 <img src={require('./images/main/mainname.svg').default}width="500" height="200"/></div>
             <div class='line'></div> 
@@ -71,9 +70,6 @@ function Landing() {
                     <img src={require('./images/contacts/contactslinkedin.svg').default} width="90" height="52"/></div>
             </div>
 
-
-            
-            
             <div class='line4'></div>
             
 
