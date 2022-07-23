@@ -15,7 +15,7 @@ function Landing() {
     }
     function a(){
         window.scrollBy({
-            top: window.outerWidth*window.outerHeight/1600,
+            top: window.outerWidth*window.outerHeight/1850,
             behavior: 'smooth'
           });
     }
@@ -42,8 +42,18 @@ function Landing() {
                 <div class="e3" onClick={w}>
                     <img src={require('./images/main/mainwork.svg').default}/></div>
             </div>
+            <div class='rec'>
+                <img src={require('./images/main/mainrec.svg').default}/></div>
             <div class='name'>
                 <img src={require('./images/main/mainname.svg').default}/></div>
+            <div class='bar2'>
+                <div class="ee1" onClick={a}>
+                    <img src={require('./images/main/mainabout2.svg').default}/></div>
+                <div class="ee2" onClick={c}>
+                    <img src={require('./images/main/maincontact2.svg').default}/></div>
+                <div class="ee3" onClick={w}>
+                    <img src={require('./images/main/mainwork2.svg').default}/></div>
+            </div>
             <div class='line'></div> 
 
 
@@ -60,7 +70,7 @@ function Landing() {
                 <img src={require('./images/main/mainexp.svg').default}/></div>
             <div class='mainexp2'>
                 <img src={require('./images/main/mainexp2.svg').default}/></div>
-            <div class='resume'>
+            <div class='resume' onClick={toresume}>
                 <img src={require('./images/main/mainresume.svg').default}/></div>
             <div class='line3'></div> 
 
