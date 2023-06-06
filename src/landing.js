@@ -72,7 +72,7 @@ function Landing() {
                 <h3>2021</h3>
                 <p>-Made a Machine Translator Website using Python, NumPy Library, Pandas Library, Transformer Module, Linguistics.</p>
                 <p>-Features includes accurate translation between English and Finnish languages by evaluating quality and comparing monolingual embeddings</p>
-                <span class="timeline-date">June 2020 - August 2020</span>
+                <span class="timeline-date">June 2021 - August 2021</span>
                 </div>
             </div>
 
@@ -81,7 +81,7 @@ function Landing() {
                 <h3>2022</h3>
                 <p>-Made a Live Assessment Website using Java, Play Framework, HTML, CSS, JSON, Websockets, Javascript, mySQL.</p>
                 <p>-Features includes gradebooks, class management, question assignment, live chat, and secure hashed password storage in a MySQL database.</p>
-                <span class="timeline-date">June 2020 - August 2020</span>
+                <span class="timeline-date">June 2022 - August 2022</span>
                 </div>
             </div>
 
@@ -91,7 +91,7 @@ function Landing() {
                 <p>-Made a Digital Asset Website Website using Solidity, Javascript, HTML, Node.js, Infura, Remix, Web3, NFT, Ganache, Metamask, Heroku.</p>
                 <p>-Features includes leveraged blockchain technology on Ethereum to facilitate the purchase, sale, and trading of wine NFTs.</p>
                 <p>-Wrote acceptance and unit-level tests to evaluate smart contract and frontend connectivity and function malfunctions</p>
-                <span class="timeline-date">June 2020 - August 2020</span>
+                <span class="timeline-date">November 2022- January 2023</span>
                 </div>
             </div>
 
